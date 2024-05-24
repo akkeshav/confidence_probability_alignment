@@ -1,0 +1,7 @@
+tqdm
+datasets
+scipy
+openai
+numpy
+seaborn
+fitter
