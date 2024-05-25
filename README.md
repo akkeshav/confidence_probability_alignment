@@ -1,1 +1,1 @@
-# confidence_probablitiy_alignment
+# confidence_probability_alignment
