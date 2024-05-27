@@ -126,7 +126,7 @@ def generate_response_and_ask_confidence(question, choices, engine_name, temp):
     return response_text, response_prob, confidence_response_text, confidence_value
 
 
-def get_raw_data(dataset, model):
+def get_and_save_confidence(dataset, model):
     dataset = load_dataset(dataset) if dataset != "ai2_arc" else load_dataset(dataset, 'ARC-Challenge')
     dataset = dataset.shuffle(seed=80)
     subset_size = 926 if dataset == 'qasc' else 1000
