@@ -16,6 +16,9 @@ recognize as its own. Notably, among the models analyzed, OpenAI's GPT-4 showed 
 alignment, with an average Spearman's $\hat{\rho}$ of 0.42, across a wide range of tasks. Our work contributes to the 
 ongoing efforts to facilitate risk assessment in the application of LLMs and to further our understanding of model trustworthiness.
 
+## Paper Link
+https://arxiv.org/abs/2405.16282
+
 ## Setup
 
 - Go to the project directory and use the following command
