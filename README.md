@@ -1,4 +1,4 @@
-# confidence_probability_alignment
+# Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models
 
 ![](./Intro_Diagram.png)
 Illustration of **GPT-4's** responses to various questions, accompanied by their internal confidences and 
