@@ -17,7 +17,7 @@ alignment, with an average Spearman's $\hat{\rho}$ of 0.42, across a wide range 
 ongoing efforts to facilitate risk assessment in the application of LLMs and to further our understanding of model trustworthiness.
 
 ## Paper Link
-https://arxiv.org/abs/2405.16282
+https://aclanthology.org/2024.acl-long.20/
 
 ## Setup
 
